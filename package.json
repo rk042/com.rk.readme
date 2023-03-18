@@ -1,0 +1,22 @@
+{
+  "name": "com.rk.readme",
+  "version": "1.0.0",
+  "displayName": "Readme",
+  "description": "Save your project infromations in project and find and edit them by editor windows\n\nGOTO -> Menu -> select readme menu\n\nNOTE : Your Data will lose if you delete ReadmePackageAsset folder",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "Readme",
+    "byrk",
+    "readmebyrk"
+  ],
+  "author": {
+    "name": "KetanRathod",
+    "email": "rathodketan042@gmail.com",
+    "url": ""
+  },
+  "type": "tool"
+}
